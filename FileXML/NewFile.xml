@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<people>
+ <person name ='Edib' lastName = 'Imamovic'>
+<age>30</age>
+ <child name ='Jesenko lastName = 'Imamovic age = '22'/>
+</person>
+ <person name ='Jesenko' lastName = 'Gavric'>
+<age>23</age>
+ <child name ='Jesenko lastName = 'Gavric age = '22'/>
+</person>
+ <person name ='Adnan' lastName = 'Spahic'>
+<age>22</age>
+ <child name ='Jesenko lastName = 'Spahic age = '33'/>
+</person>
+ <person name ='Gorjan' lastName = 'Kalauzovic'>
+<age>55</age>
+</person>
+ <person name ='Benjamin' lastName = 'Talic'>
+<age>24</age>
+</person>
+ <person name ='Hikmet' lastName = 'Durgutovic'>
+<age>22</age>
+ <child name ='Jesenko lastName = 'Durgutovic age = '33'/>
+</person>
+</people>

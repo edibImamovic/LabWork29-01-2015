@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products query="macbook od 200">
+  <product id="15294037" url="http://www.pik.ba/artikal/15294037/apple-macbook-pro-15-4/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/04/06/slika-615714-54a9764fe0565-thumb.jpg"/>
+    <location>Brčko</location>
+    <title>Apple MacBook Pro 15.4"</title>
+    <description>MacBook Pro 15.4"</description>
+    <price currency="BAM">420</price>
+    <date>2015-01-04T18:23</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15238402" url="http://www.pik.ba/artikal/15238402/apple-macbook-pro-15/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/30/08/slika-72402-54a2578ba55bf-thumb.jpg"/>
+    <location>Trebinje</location>
+    <title>Apple MacBook Pro 15"</title>
+    <description>Mac Book Pro</description>
+    <price currency="BAM">780</price>
+    <date>2014-12-30T08:37</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15615941" url="http://www.pik.ba/artikal/15615941/laptop-macbook/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/27/04/slika-250917-54c706bf5d28d-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Laptop MacBook</title>
+    <description>Laptop MacBOOK - Apple MODEL A1181</description>
+    <price currency="BAM">240</price>
+    <date>2015-01-27T04:48</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15604497" url="http://www.pik.ba/artikal/15604497/apple-macbook-air-11/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/26/02/slika-655716-54c63c135e60a-thumb.jpg"/>
+    <location>Novo Sarajevo</location>
+    <title>Apple MACBook Air 11</title>
+    <description>Apple MACBook Air 11/koristeno 6 mjeseci garancija</description>
+    <price currency="BAM">999</price>
+    <date>2015-01-26T14:09</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15646057" url="http://www.pik.ba/artikal/15646057/macbook-pro-2-4-ghz-intel-core-i5/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/28/10/slika-1044076-54c9587c1719d-thumb.jpg"/>
+    <location>Sarajevo - Centar</location>
+    <title>MacBook Pro 2,4 GHz Intel Core i5</title>
+    <description/>
+    <price currency="BAM">1850</price>
+    <date>2015-01-28T22:45</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15645425" url="http://www.pik.ba/artikal/15645425/macbook-air-13-3/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/28/10/slika-944-54c94fb43842c-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Macbook air 13,3</title>
+    <description>128 ssd , 4gb ram 1333 mhz ddr3 , 1,7ghz intel core i5</description>
+    <price currency="BAM">1080</price>
+    <date>2015-01-28T22:06</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15645372" url="http://www.pik.ba/artikal/15645372/macbook-laptop/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/28/10/slika-101888-54c94de67ac59-thumb.jpg"/>
+    <location>Sarajevo - Centar</location>
+    <title>Macbook Laptop</title>
+    <description>Macbook</description>
+    <price currency="BAM">450</price>
+    <date>2015-01-28T22:02</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15640833" url="http://www.pik.ba/artikal/15640833/laptop-macbook/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/19/04/slika-250897-54bd1caf367e7-thumb.jpg"/>
+    <location>Tuzla</location>
+    <title>Laptop MacBook</title>
+    <description>Laptop MacBook 13.3 2.4 GHz core 2 duo </description>
+    <price currency="BAM">200</price>
+    <date>2015-01-28T17:57</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15639065" url="http://www.pik.ba/artikal/15639065/macbook-pro/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/27/09/slika-1043199-54c7fc3c1e76b-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>MacBook Pro</title>
+    <description>MacBook Pro</description>
+    <price currency="BAM">1250</price>
+    <date>2015-01-28T16:13</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15639060" url="http://www.pik.ba/artikal/15639060/macbook-pro/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/27/10/slika-1043199-54c7fd4aedfd9-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>MacBook Pro</title>
+    <description>MacBook Pro</description>
+    <price currency="BAM">1400</price>
+    <date>2015-01-28T16:12</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15639057" url="http://www.pik.ba/artikal/15639057/apple-macbook-pro/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/27/09/slika-1043199-54c7f8af4a3d3-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>Apple Macbook Pro</title>
+    <description>Macbook Pro</description>
+    <price currency="BAM">1600</price>
+    <date>2015-01-28T16:12</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15506855" url="http://www.pik.ba/artikal/15506855/apple-macbook-pro-15-laptop/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/01/11/slika-14499-547c3ead63ad1-thumb.jpg"/>
+    <location>Zenica</location>
+    <title>Apple MacBook Pro 15 Laptop</title>
+    <description>Intel Core2Duo, 4GB RAM, 500GB HDD, nVidia </description>
+    <price currency="BAM">950</price>
+    <date>2015-01-28T15:30</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15506852" url="http://www.pik.ba/artikal/15506852/apple-macbook-pro-15-intel-i7/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/23/08/slika-14499-5499bbfc15f89-thumb.jpg"/>
+    <location>Zenica</location>
+    <title>Apple MacBook Pro 15 Intel i7</title>
+    <description>intel i7, 4GB RAM, 500GB HDD, Intel + ATI 6490</description>
+    <price currency="BAM">1300</price>
+    <date>2015-01-28T15:29</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="14809711" url="http://www.pik.ba/artikal/14809711/apple-macbook-air-13-1-4ghz-core-i5-128gb-md760zp-b/">
+    <image url="http://s04.pikstatic.com/galerija/2014-11/29/01/slika-986486-5479b5ba933ff-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Apple Macbook Air 13" 1.4GHz Core i5 128GB - MD760ZP/B</title>
+    <description>(2014 New Version)</description>
+    <price currency="BAM">1650</price>
+    <date>2015-01-28T14:46</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15636504" url="http://www.pik.ba/artikal/15636504/apple-macbook-pro-13/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/28/01/slika-1043536-54c8d03cdae7d-thumb.jpg"/>
+    <location>Prnjavor</location>
+    <title>Apple MacBook Pro 13"</title>
+    <description>MacBook Pro 13" i5 4GB DDR 1600</description>
+    <price currency="BAM">1400</price>
+    <date>2015-01-28T13:25</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15050916" url="http://www.pik.ba/artikal/15050916/apple-macbook-black-13-3/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/16/10/slika-162189-548ff498b5cf4-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>APPLE Macbook Black 13.3</title>
+    <description>OSX 10.6, Intel 2,0 GHz, 2 GB DDR2, Webcam</description>
+    <price currency="BAM">250</price>
+    <date>2015-01-28T10:56</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15506859" url="http://www.pik.ba/artikal/15506859/apple-macbook-pro-13-intel-i5/">
+    <image url="http://s03.pikstatic.com/galerija/2014-11/07/12/slika-14499-545ca77fbc243-thumb.jpg"/>
+    <location>Zenica</location>
+    <title>Apple MacBook Pro 13 Intel i5</title>
+    <description>Intel i5 2,3Ghz, 4GB RAM, 320GB HDD, Intel 3000 </description>
+    <price currency="BAM">950</price>
+    <date>2015-01-28T09:58</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15632414" url="http://www.pik.ba/artikal/15632414/apple-macbook-pro-15-core-2-duo-model-5-4/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/10/07/slika-557722-54b16b8a5f89b-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Apple MacBook Pro 15", core 2 duo, model 5.4</title>
+    <description>U perfekt stanju</description>
+    <price currency="BAM">880</price>
+    <date>2015-01-28T07:44</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15632413" url="http://www.pik.ba/artikal/15632413/apple-macbook-pro-13-cpu-i5-godiste-2011/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/26/02/slika-557722-549d69cb4cb80-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Apple MacBook Pro 13", cpu: i5, godiste 2011</title>
+    <description>U odlicnom stanju</description>
+    <price currency="BAM">940</price>
+    <date>2015-01-28T07:44</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15632411" url="http://www.pik.ba/artikal/15632411/apple-macbook-pro-13-3-cpu-i5-2-5ghz-mid-2012/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/26/03/slika-557722-549d6a571bc3a-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Apple MacBook Pro, 13.3", cpu i5 2.5GHz, mid 2012</title>
+    <description>U ekstra dobrom stanju, bukvalno kao nov</description>
+    <price currency="BAM">1280</price>
+    <date>2015-01-28T07:44</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15632410" url="http://www.pik.ba/artikal/15632410/apple-macbook-pro-13-cpu-i5-late-2011/">
+<image url="http://s04.pikstatic.com/galerija/2014-12/26/02/slika-557722-549d69cb4cb80-thumb.jpg"/><location>Sarajevo, Novi Grad</location><title>Apple MacBook Pro 13", cpu: i5, late 2011</title><description>U odlicnom stanju, kao nov</description><price currency="BAM">1180</price><date>2015-01-28T07:44</date><state>KORIŠTENO</state></product>
+  <product id="15632407" url="http://www.pik.ba/artikal/15632407/apple-macbook-air-13-3-2014-godiste/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/26/03/slika-557722-549d6bfb1a175-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Apple Macbook Air 13.3", 2014. godiste</title>
+    <description>3 godine garancije, bez packice na sebi, bukvalno nov</description>
+    <price currency="BAM">1690</price>
+    <date>2015-01-28T07:44</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15632406" url="http://www.pik.ba/artikal/15632406/apple-macbook-air-13-3-late-2010/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/10/07/slika-557722-54b16a5b06d1e-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Apple Macbook Air 13.3", late 2010</title>
+    <description>Odlicno ocuvan, u extra stanju</description>
+    <price currency="BAM">890</price>
+    <date>2015-01-28T07:44</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15629623" url="http://www.pik.ba/artikal/15629623/macbook-air-13/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/27/09/slika-1043199-54c7f9c30d454-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>MacBook Air 13"</title>
+    <description>MacBook Air 13"</description>
+    <price currency="BAM">1200</price>
+    <date>2015-01-27T21:49</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15619328" url="http://www.pik.ba/artikal/15619328/apple-macbook-pro-15/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/27/12/slika-798732-54c778efdd668-thumb.jpg"/>
+    <location/>
+    <title>Apple MacBook Pro 15</title>
+    <description>Laptop je bez mane:)</description>
+    <price currency="BAM">1100</price>
+    <date>2015-01-27T12:42</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15056792" url="http://www.pik.ba/artikal/15056792/apple-macbook-pro-retina-15-40-i7-16gb/">
+    <image url="http://s03.pikstatic.com/galerija/2014-12/16/04/slika-67383-54904b95326ad-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>Apple MacBook Pro Retina (15.40'',i7, 16GB)</title>
+    <description>24 mjeseca garancija, citajte detaljan opis</description>
+    <price currency="BAM">3620</price>
+    <date>2015-01-26T23:26</date>
+    <state>NOVO</state>
+  </product>
+  <product id="13221642" url="http://www.pik.ba/artikal/13221642/macbook-air/">
+    <image url="http://s04.pikstatic.com/galerija/2014-07/15/09/slika-47619-53c5873038a11-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Macbook Air</title>
+    <description>Macbook Air 13"</description>
+    <price currency="BAM">1450</price>
+    <date>2015-01-26T13:42</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15603790" url="http://www.pik.ba/artikal/15603790/apple-macbook-air-13-3-intel-i5/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/15/03/slika-14499-54b7cf2a37213-thumb.jpg"/>
+    <location>Zenica</location>
+    <title>Apple MacBook Air 13,3 intel i5</title>
+    <description>intel i5 1,7GHz, 4GB RAM, 128GB SSD</description>
+    <price currency="BAM">1200</price>
+    <date>2015-01-26T13:27</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="14326565" url="http://www.pik.ba/artikal/14326565/macbook-pro-15-retina-qc-i7-2-3ghz-16gb-512gb/">
+    <image url="http://s03.pikstatic.com/galerija/2014-10/23/10/slika-534901-54495ef5c1859-thumb.jpg"/>
+    <location>Bijeljina</location>
+    <title>MacBook Pro 15" Retina/QC i7 2.3GHz/16GB/512GB</title>
+    <description>MacBook Pro 15" Retina/QC i7 2.3GHz/16GB/512GB </description>
+    <price currency="BAM">5000</price>
+    <date>2015-01-26T09:58</date>
+    <state>NOVO</state>
+  </product>
+  <product id="14956127" url="http://www.pik.ba/artikal/14956127/apple-macbook-pro-13-polovan/">
+    <image url="http://s03.pikstatic.com/galerija/2014-12/09/03/slika-655716-54870da23926f-thumb.jpg"/>
+    <location>Novo Sarajevo</location>
+    <title>Apple MacBook Pro 13 - Polovan</title>
+    <description>MacBook Pro 13, Late 2010, Core 2 Duo 2,4 GHz. Garancija 6 mjeseci, Kontakt 033 642 012.</description>
+    <price currency="BAM">849</price>
+    <date>2015-01-26T09:44</date>
+    <state>KORIŠTENO</state>
+  </product>
+</products>
+ plakari.xml Raw
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+<?xml version="1.0" encoding="utf-8"?>
+<products query="američki plakar">
+  <product id="7827865" url="http://www.pik.ba/artikal/7827865/americki-plakar-po-mjeri/">
+    <image url="http://s02.pikstatic.com/galerija/2013-07/19/14/slika-259009-09929a4180a3-thumb.jpg"/>
+    <location>Ilidža</location>
+    <title>Americki plakar po mjeri</title>
+    <description>Salon namjestaja i tehnike GOLD</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-29T09:22</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15648146" url="http://www.pik.ba/artikal/15648146/americki-plakar/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/29/08/slika-202380-54c9e38dad5eb-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Americki plakar</title>
+    <description/>
+    <price currency="BAM">300</price>
+    <date>2015-01-29T08:39</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="7850847" url="http://www.pik.ba/artikal/7850847/americki-plakar/">
+    <image url="http://s02.pikstatic.com/galerija/2013-07/21/09/slika-257465-1227847188cc-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Americki plakar</title>
+    <description>pravljene svih vrsta namjestaja (pogledajte ostale artikle)</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-29T08:37</date>
+    <state>NOVO</state>
+  </product>
+  <product id="13951178" url="http://www.pik.ba/artikal/13951178/okov-za-americki-plakar/">
+    <image url="http://s01.pikstatic.com/galerija/2013-11/24/08/slika-105129-7fbac3604280-thumb.jpg"/>
+    <location>Cazin</location>
+    <title>Okov za americki plakar</title>
+    <description>americki plakari, klizni plakari</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-28T20:03</date>
+    <state>NOVO</state>
+  </product>
+  <product id="10439662" url="http://www.pik.ba/artikal/10439662/americki-plakar/">
+    <image url="http://s01.pikstatic.com/galerija/2013-11/28/04/slika-457297-36bc58565978-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>Americki plakar</title>
+    <description>NAJPOVOLJNIJI AMERICKI PLAKARI PO MJERI 065/649-342</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-28T12:00</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15633280" url="http://www.pik.ba/artikal/15633280/americki-plakar-plakari-ab-enterjeri/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/28/09/slika-116918-54c89cfdd7268-thumb.jpg"/>
+    <location>Novo Sarajevo</location>
+    <title>*** Američki plakar/plakari *** AB enterjeri ***</title>
+    <description>Izrada plo&amp;#x10D;astog namje&amp;#x161;taja po mjeri i &amp;#x17E;elji kupca... </description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-28T09:25</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15633269" url="http://www.pik.ba/artikal/15633269/americki-plakar-plakari-ab-enterijeri/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/28/09/slika-116918-54c89cb594817-thumb.jpg"/>
+    <location>Novo Sarajevo</location>
+    <title>*** Američki plakar/plakari *** AB enterijeri ***</title>
+    <description>Izrada plo&amp;#x10D;astog namje&amp;#x161;taja po mjeri i &amp;#x17E;elji kupca... </description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-28T09:24</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15633261" url="http://www.pik.ba/artikal/15633261/americki-plakar-plakari-ab-enterijeri/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/28/09/slika-116918-54c89c7300df4-thumb.jpg"/>
+    <location>Novo Sarajevo</location>
+    <title>*** Američki plakar/plakari *** AB enterijeri ***</title>
+    <description>Izrada plo&amp;#x10D;astog namje&amp;#x161;taja po mjeri i &amp;#x17E;elji kupca... </description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-28T09:23</date>
+    <state>NOVO</state>
+  </product>
+  <product id="11243991" url="http://www.pik.ba/artikal/11243991/americki-plakar/">
+    <image url="http://s03.pikstatic.com/galerija/2014-02/20/09/slika-257465-b19c5fda3c8d-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Americki plakar</title>
+    <description>po mjerii</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-28T06:54</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15631031" url="http://www.pik.ba/artikal/15631031/plakar-sa-kliznim-vratima-americki-plakar-065-562-733/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/27/11/slika-97546-54c80f2627ffd-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>Plakar sa kliznim vratima(americki plakar).065/562-733</title>
+    <description>Plakar je nov,star 3mjeseca prodajem ga radi selidbe pa mi ne odgovara....</description>
+    <price currency="BAM">400</price>
+    <date>2015-01-27T23:21</date>
+    <state>NOVO</state>
+  </product>
+  <product id="11182733" url="http://www.pik.ba/artikal/11182733/americki-plakar-klizni-ormar-okovi/">
+    <image url="http://s01.pikstatic.com/galerija/2013-11/24/08/slika-105129-7fbac3604280-thumb.jpg"/>
+    <location>Cazin</location>
+    <title>Američki plakar - klizni ormar okovi</title>
+    <description>americki plakari, klizni plakari</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-27T10:55</date>
+    <state>NOVO</state>
+  </product>
+  <product id="10711219" url="http://www.pik.ba/artikal/10711219/americki-plakar/">
+    <image url="http://s03.pikstatic.com/galerija/2014-01/20/10/slika-257465-8b8ba4b35d11-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Americki Plakar</title>
+    <description>Po mjerii</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-27T08:55</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15297596" url="http://www.pik.ba/artikal/15297596/americki-plakar-plakari-klizni/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/04/10/slika-1010500-54a9b44ae5431-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Americki plakar, plakari, klizni</title>
+    <description>sve po mjeri</description>
+    <price currency="BAM">155</price>
+    <date>2015-01-26T17:39</date>
+    <state>NOVO</state>
+  </product>
+  <product id="11824415" url="http://www.pik.ba/artikal/11824415/americki-plakar/">
+    <image url="http://s03.pikstatic.com/galerija/2014-03/28/12/slika-72100-e462c1ce7bcc-thumb.jpg"/>
+    <location>Sarajevo - Centar</location>
+    <title>Americki plakar</title>
+    <description>BOJA VENGE/BIJELA 280x225x65</description>
+    <price currency="BAM">600</price>
+    <date>2015-01-26T11:51</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="12926706" url="http://www.pik.ba/artikal/12926706/americki-plakar/">
+    <image url="http://s04.pikstatic.com/galerija/2014-06/20/08/slika-257465-6561f1ae28fe-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Americki plakar</title>
+    <description>boje,dimenzije po zelji</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-25T09:00</date>
+    <state>NOVO</state>
+  </product>
+  <product id="6342613" url="http://www.pik.ba/artikal/6342613/americki-plakar-plakari/">
+    <image url="http://s01.pikstatic.com/galerija/2013-04/22/11/slika-34826-d268e4275b0338-thumb.jpg"/>
+    <location>Sarajevo, Novi Grad</location>
+    <title>Američki plakar - plakari</title>
+    <description>plakari i kuhinje po mjeri, stolovi, kreveti, komode</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-23T08:55</date>
+    <state>NOVO</state>
+  </product>
+  <product id="12926777" url="http://www.pik.ba/artikal/12926777/americki-plakar/">
+    <image url="http://s04.pikstatic.com/galerija/2014-06/20/08/slika-257465-c07adfc919bc-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Americki plakar</title>
+    <description>boje,dimenzije po zelji</description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-22T11:00</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15503531" url="http://www.pik.ba/artikal/15503531/americki-plakar/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/19/09/slika-405529-54bd6c7ee7464-thumb.jpg"/>
+    <location>Vareš</location>
+    <title>AMERICKI PLAKAR</title>
+    <description>AMERICKI PLAKAR NOV,NIKAD RASKLAPAN...</description>
+    <price currency="BAM">500</price>
+    <date>2015-01-19T21:44</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="11573702" url="http://www.pik.ba/artikal/11573702/klizni-ormar-gardarober-americki-plakar/">
+    <image url="http://s03.pikstatic.com/galerija/2014-03/12/12/slika-413355-4873f48ec226-thumb.jpg"/>
+    <location>Živinice</location>
+    <title>Klizni ormar, gardarober, americki plakar</title>
+    <description>sve po vasoj zelji i mjeri </description>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-18T21:26</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15458142" url="http://www.pik.ba/artikal/15458142/americki-plakar-zenica/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/15/09/slika-835547-548f495213d58-thumb.jpg"/>
+    <location>Zenica</location>
+    <title>AMERICKI PLAKAR ZENICA</title>
+    <description/>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-16T20:58</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15415314" url="http://www.pik.ba/artikal/15415314/veliki-americki-plakar/">
+<image url="http://s04.pikstatic.com/galerija/2015-01/13/08/slika-289316-54b577026a51c-thumb.jpg"/><location>Srebrenik</location><title>Veliki americki plakar</title><description>Odlicno ocuvani plakar</description><price currency="BAM">290</price><date>2015-01-13T20:51</date><state>KORIŠTENO</state></product>
+  <product id="12210109" url="http://www.pik.ba/artikal/12210109/americki-plakar-061-286-135/">
+    <image url="http://s03.pikstatic.com/galerija/2014-04/22/21/slika-858858-37fea54aa526-thumb.jpg"/>
+    <location>Tuzla</location>
+    <title>Američki plakar 061-286-135</title>
+    <description/>
+    <price currency="BAM">650</price>
+    <date>2015-01-13T18:02</date>
+    <state>NOVO</state>
+  </product>
+  <product id="15406785" url="http://www.pik.ba/artikal/15406785/americki-plakar-siber-ormar-klizna-vrata/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/13/11/slika-125515-54b4f6956a034-thumb.jpg"/>
+    <location>Žepče</location>
+    <title>Americki plakar, siber ormar, klizna vrata</title>
+    <description>velicina 4 m</description>
+    <price currency="BAM">460</price>
+    <date>2015-01-13T11:47</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="14974266" url="http://www.pik.ba/artikal/14974266/kuhinja-sa-ugradnim-uredjajima-komoda-americki-plakar/">
+    <image url="http://s04.pikstatic.com/galerija/2014-12/10/06/slika-1004326-548885172a140-thumb.jpg"/>
+    <location>Banja Luka</location>
+    <title>Kuhinja sa ugradnim uređajima- komoda- američki plakar</title>
+    <description>Kuhinja- medijapan- visoki sjaj- ugradni ure&amp;#x111;aji: Electrolux plo&amp;#x10D;a i rerna, Zanussi fri&amp;#x17E;ider, napa- &amp;#x161;ank- komoda za dnevni boravak- ameri&amp;#x10D;ki plakar</description>
+    <price currency="BAM">3800</price>
+    <date>2015-01-12T11:39</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="14414616" url="http://www.pik.ba/artikal/14414616/americki-plakar/">
+    <image url="http://s03.pikstatic.com/galerija/2014-10/30/05/slika-284224-5452660a9f4d7-thumb.jpg"/>
+    <location>Bijeljina</location>
+    <title>Americki plakar</title>
+    <description>ormar</description>
+    <price currency="BAM">350</price>
+    <date>2015-01-08T13:08</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="15338497" url="http://www.pik.ba/artikal/15338497/siber-ormar-americki-plakar-klizna-vrata/">
+    <image url="http://s04.pikstatic.com/galerija/2015-01/08/11/slika-125515-54ae623cd5586-thumb.jpg"/>
+    <location>Žepče</location>
+    <title>Siber ormar, americki plakar, klizna vrata</title>
+    <description>2 m</description>
+    <price currency="BAM">330</price>
+    <date>2015-01-08T11:56</date>
+    <state>KORIŠTENO</state>
+  </product>
+  <product id="3403111" url="http://www.pik.ba/artikal/3403111/americki-plakar-povoljno/">
+    <image url="http://s02.pikstatic.com/galerija/2013-07/12/21/slika-336300-a7c0a533e72a-thumb.jpg"/>
+    <location>Zvornik</location>
+    <title>Americki plakar povoljno</title>
+    <description>namjestaj po mjeri moze zamjena za razno</description>
+    <price currency="BAM">150</price>
+    <date>2015-01-06T21:42</date>
+    <state>NOVO</state>
+  </product>
+  <product id="7760042" url="http://www.pik.ba/artikal/7760042/americki-plakar/">
+    <image url="http://s02.pikstatic.com/galerija/2013-07/14/17/slika-534536-8ebdbd73e69b-thumb.jpg"/>
+    <location>Tuzla</location>
+    <title>Americki plakar</title>
+    <description/>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-06T14:39</date>
+    <state>NOVO</state>
+  </product>
+  <product id="12995696" url="http://www.pik.ba/artikal/12995696/americki-plakar/">
+    <image url="http://s04.pikstatic.com/galerija/2014-06/26/10/slika-534536-24a38a6c2837-thumb.jpg"/>
+    <location>Tuzla</location>
+    <title>Americki plakar</title>
+    <description/>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-06T14:39</date>
+    <state>NOVO</state>
+  </product>
+  <product id="12092002" url="http://www.pik.ba/artikal/12092002/americki-plakar/">
+    <image url="http://s03.pikstatic.com/galerija/2014-04/15/16/slika-534536-5c24a249ea96-thumb.jpg"/>
+    <location>Tuzla</location>
+    <title>Americki plakar</title>
+    <description/>
+    <price>PO DOGOVORU</price>
+    <date>2015-01-06T14:39</date>
+    <state>NOVO</state>
+  </product>
+</products>
